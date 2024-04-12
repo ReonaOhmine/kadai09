@@ -5,7 +5,7 @@
 - 会員登録フォームです。会員登録したユーザー情報を管理画面で見ることが出来ます（first.phpはLPトップになっています。「無料で登録」部分から登録フォームに飛びます）
 
 ## ③DEMO
-https://freddy.sakura.ne.jp/kadai09/first.php
+https://freddy.sakura.ne.jp/kadai09/1_first.php
 
 ## ④工夫した点・こだわった点
 - 誕生日をいれると管理画面で計算されて年齢も表示されるようにしたこと
